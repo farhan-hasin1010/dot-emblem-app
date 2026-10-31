@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "DOT Emblem Controller",
+    "slug": "dot-emblem-controller",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.vusi.dotemblem"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a3b4181d-ec25-4361-83fc-fa7324e23645"
+      }
+    }
+  }
+}
